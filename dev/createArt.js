@@ -75,7 +75,6 @@ async function art(hash, p5) {
 
       // Init canvas
       h = p5.windowHeight
-      console.log(h)
       w = h * aspectRatio
       p5.createCanvas(w, h)
       p5.colorMode(p5.HSB)
