@@ -1,3 +1,9 @@
+256ART boilerplate code with personal tweaks that include (in dev folder) :
+- p5.js starter code in createArt.js
+- hash functions in index.html to generate random hash on reload, and to get hash from URL query
+
+# 256ART INITIAL README:
+
 ## Intro
 
 This is a 256ART example project. Which can be used when starting development on an artseries for the 256ART platform. There are two folders **dev** and **release** which will be explained below. Each created artwork should retrieve determnistic randomness from a hash send as input to your art script. Each artwork should be dimension agnostic.
